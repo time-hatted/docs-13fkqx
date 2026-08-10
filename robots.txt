@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-ac2dmj.salamduit.online/sitemap.xml
